@@ -1,0 +1,402 @@
+[
+  {
+    "word": "apple",
+    "meaning": "りんご",
+    "level": "basic",
+    "pos": "noun",
+    "example": "I ate an apple.",
+    "exampleJa": "私はりんごを食べた。"
+  },
+  {
+    "word": "beautiful",
+    "meaning": "美しい",
+    "level": "basic",
+    "pos": "adjective",
+    "example": "The mountain is beautiful.",
+    "exampleJa": "その山は美しい。"
+  },
+  {
+    "word": "borrow",
+    "meaning": "借りる",
+    "level": "basic",
+    "pos": "verb",
+    "example": "Can I borrow your pen?",
+    "exampleJa": "あなたのペンを借りてもいいですか。"
+  },
+  {
+    "word": "choose",
+    "meaning": "選ぶ",
+    "level": "basic",
+    "pos": "verb",
+    "example": "Please choose one.",
+    "exampleJa": "一つ選んでください。"
+  },
+  {
+    "word": "different",
+    "meaning": "異なる",
+    "level": "basic",
+    "pos": "adjective",
+    "example": "These two ideas are different.",
+    "exampleJa": "この二つの考えは異なる。"
+  },
+  {
+    "word": "enough",
+    "meaning": "十分な",
+    "level": "basic",
+    "pos": "adjective",
+    "example": "We have enough time.",
+    "exampleJa": "私たちには十分な時間がある。"
+  },
+  {
+    "word": "future",
+    "meaning": "未来、将来",
+    "level": "basic",
+    "pos": "noun",
+    "example": "Think about your future.",
+    "exampleJa": "自分の将来について考えなさい。"
+  },
+  {
+    "word": "important",
+    "meaning": "重要な",
+    "level": "basic",
+    "pos": "adjective",
+    "example": "Water is important for life.",
+    "exampleJa": "水は生命にとって重要だ。"
+  },
+  {
+    "word": "practice",
+    "meaning": "練習する",
+    "level": "basic",
+    "pos": "verb",
+    "example": "I practice English every day.",
+    "exampleJa": "私は毎日英語を練習する。"
+  },
+  {
+    "word": "remember",
+    "meaning": "覚えている",
+    "level": "basic",
+    "pos": "verb",
+    "example": "Please remember this word.",
+    "exampleJa": "この単語を覚えてください。"
+  },
+  {
+    "word": "agree",
+    "meaning": "賛成する",
+    "level": "3",
+    "pos": "verb",
+    "example": "I agree with you.",
+    "exampleJa": "私はあなたに賛成です。"
+  },
+  {
+    "word": "experience",
+    "meaning": "経験",
+    "level": "3",
+    "pos": "noun",
+    "example": "It was a good experience.",
+    "exampleJa": "それは良い経験だった。"
+  },
+  {
+    "word": "foreign",
+    "meaning": "外国の",
+    "level": "3",
+    "pos": "adjective",
+    "example": "She studies foreign languages.",
+    "exampleJa": "彼女は外国語を勉強している。"
+  },
+  {
+    "word": "invite",
+    "meaning": "招待する",
+    "level": "3",
+    "pos": "verb",
+    "example": "I invited him to dinner.",
+    "exampleJa": "私は彼を夕食に招待した。"
+  },
+  {
+    "word": "necessary",
+    "meaning": "必要な",
+    "level": "3",
+    "pos": "adjective",
+    "example": "Sleep is necessary for health.",
+    "exampleJa": "睡眠は健康に必要だ。"
+  },
+  {
+    "word": "promise",
+    "meaning": "約束する",
+    "level": "3",
+    "pos": "verb",
+    "example": "I promise to help you.",
+    "exampleJa": "私はあなたを助けると約束します。"
+  },
+  {
+    "word": "receive",
+    "meaning": "受け取る",
+    "level": "3",
+    "pos": "verb",
+    "example": "I received a letter.",
+    "exampleJa": "私は手紙を受け取った。"
+  },
+  {
+    "word": "several",
+    "meaning": "いくつかの",
+    "level": "3",
+    "pos": "adjective",
+    "example": "Several students joined us.",
+    "exampleJa": "何人かの生徒が参加した。"
+  },
+  {
+    "word": "traditional",
+    "meaning": "伝統的な",
+    "level": "3",
+    "pos": "adjective",
+    "example": "This is a traditional festival.",
+    "exampleJa": "これは伝統的な祭りです。"
+  },
+  {
+    "word": "volunteer",
+    "meaning": "ボランティア、進んで行う",
+    "level": "3",
+    "pos": "noun/verb",
+    "example": "She works as a volunteer.",
+    "exampleJa": "彼女はボランティアとして活動している。"
+  },
+  {
+    "word": "environment",
+    "meaning": "環境",
+    "level": "pre2",
+    "pos": "noun",
+    "example": "We should protect the environment.",
+    "exampleJa": "私たちは環境を守るべきだ。"
+  },
+  {
+    "word": "increase",
+    "meaning": "増加する、増やす",
+    "level": "pre2",
+    "pos": "verb",
+    "example": "The number increased rapidly.",
+    "exampleJa": "その数は急速に増加した。"
+  },
+  {
+    "word": "international",
+    "meaning": "国際的な",
+    "level": "pre2",
+    "pos": "adjective",
+    "example": "It is an international project.",
+    "exampleJa": "それは国際的なプロジェクトだ。"
+  },
+  {
+    "word": "population",
+    "meaning": "人口",
+    "level": "pre2",
+    "pos": "noun",
+    "example": "The population is decreasing.",
+    "exampleJa": "人口は減少している。"
+  },
+  {
+    "word": "prevent",
+    "meaning": "防ぐ",
+    "level": "pre2",
+    "pos": "verb",
+    "example": "Exercise can prevent disease.",
+    "exampleJa": "運動は病気の予防に役立つ。"
+  },
+  {
+    "word": "provide",
+    "meaning": "提供する",
+    "level": "pre2",
+    "pos": "verb",
+    "example": "The program provides useful information.",
+    "exampleJa": "その番組は有用な情報を提供する。"
+  },
+  {
+    "word": "reduce",
+    "meaning": "減らす",
+    "level": "pre2",
+    "pos": "verb",
+    "example": "We need to reduce waste.",
+    "exampleJa": "私たちはごみを減らす必要がある。"
+  },
+  {
+    "word": "research",
+    "meaning": "研究",
+    "level": "pre2",
+    "pos": "noun",
+    "example": "He is doing research on energy.",
+    "exampleJa": "彼はエネルギーについて研究している。"
+  },
+  {
+    "word": "responsible",
+    "meaning": "責任がある",
+    "level": "pre2",
+    "pos": "adjective",
+    "example": "We are responsible for the result.",
+    "exampleJa": "私たちはその結果に責任がある。"
+  },
+  {
+    "word": "solution",
+    "meaning": "解決策",
+    "level": "pre2",
+    "pos": "noun",
+    "example": "We need to find a solution.",
+    "exampleJa": "私たちは解決策を見つける必要がある。"
+  },
+  {
+    "word": "contribute",
+    "meaning": "貢献する",
+    "level": "2",
+    "pos": "verb",
+    "example": "The project contributes to the local economy.",
+    "exampleJa": "そのプロジェクトは地域経済に貢献する。"
+  },
+  {
+    "word": "consequence",
+    "meaning": "結果、影響",
+    "level": "2",
+    "pos": "noun",
+    "example": "The decision had serious consequences.",
+    "exampleJa": "その決定は重大な結果をもたらした。"
+  },
+  {
+    "word": "efficient",
+    "meaning": "効率的な",
+    "level": "2",
+    "pos": "adjective",
+    "example": "This system is more efficient.",
+    "exampleJa": "このシステムはより効率的だ。"
+  },
+  {
+    "word": "essential",
+    "meaning": "不可欠な",
+    "level": "2",
+    "pos": "adjective",
+    "example": "Water is essential for agriculture.",
+    "exampleJa": "水は農業に不可欠だ。"
+  },
+  {
+    "word": "estimate",
+    "meaning": "見積もる、推定する",
+    "level": "2",
+    "pos": "verb",
+    "example": "We estimated the total cost.",
+    "exampleJa": "私たちは総費用を見積もった。"
+  },
+  {
+    "word": "maintain",
+    "meaning": "維持する",
+    "level": "2",
+    "pos": "verb",
+    "example": "It is difficult to maintain quality.",
+    "exampleJa": "品質を維持することは難しい。"
+  },
+  {
+    "word": "perspective",
+    "meaning": "観点、視点",
+    "level": "2",
+    "pos": "noun",
+    "example": "Consider the problem from another perspective.",
+    "exampleJa": "別の観点から問題を考えなさい。"
+  },
+  {
+    "word": "significant",
+    "meaning": "重要な、著しい",
+    "level": "2",
+    "pos": "adjective",
+    "example": "There was a significant improvement.",
+    "exampleJa": "著しい改善があった。"
+  },
+  {
+    "word": "sustainable",
+    "meaning": "持続可能な",
+    "level": "2",
+    "pos": "adjective",
+    "example": "We need sustainable energy.",
+    "exampleJa": "私たちには持続可能なエネルギーが必要だ。"
+  },
+  {
+    "word": "undertake",
+    "meaning": "引き受ける、着手する",
+    "level": "2",
+    "pos": "verb",
+    "example": "The team undertook a new study.",
+    "exampleJa": "チームは新しい研究に着手した。"
+  },
+  {
+    "word": "allocate",
+    "meaning": "割り当てる",
+    "level": "pre1",
+    "pos": "verb",
+    "example": "The government allocated funds to the project.",
+    "exampleJa": "政府はその事業に資金を割り当てた。"
+  },
+  {
+    "word": "compelling",
+    "meaning": "説得力のある",
+    "level": "pre1",
+    "pos": "adjective",
+    "example": "She presented a compelling argument.",
+    "exampleJa": "彼女は説得力のある主張を示した。"
+  },
+  {
+    "word": "deteriorate",
+    "meaning": "悪化する",
+    "level": "pre1",
+    "pos": "verb",
+    "example": "The situation began to deteriorate.",
+    "exampleJa": "状況は悪化し始めた。"
+  },
+  {
+    "word": "feasible",
+    "meaning": "実行可能な",
+    "level": "pre1",
+    "pos": "adjective",
+    "example": "The plan appears feasible.",
+    "exampleJa": "その計画は実行可能に見える。"
+  },
+  {
+    "word": "incentive",
+    "meaning": "動機、奨励策",
+    "level": "pre1",
+    "pos": "noun",
+    "example": "The policy provides an incentive to invest.",
+    "exampleJa": "その政策は投資を促す誘因となる。"
+  },
+  {
+    "word": "inevitable",
+    "meaning": "避けられない",
+    "level": "pre1",
+    "pos": "adjective",
+    "example": "Some change is inevitable.",
+    "exampleJa": "ある程度の変化は避けられない。"
+  },
+  {
+    "word": "mitigate",
+    "meaning": "緩和する",
+    "level": "pre1",
+    "pos": "verb",
+    "example": "The measures may mitigate the risk.",
+    "exampleJa": "その対策はリスクを緩和する可能性がある。"
+  },
+  {
+    "word": "profound",
+    "meaning": "深い、重大な",
+    "level": "pre1",
+    "pos": "adjective",
+    "example": "The discovery had a profound impact.",
+    "exampleJa": "その発見は重大な影響を与えた。"
+  },
+  {
+    "word": "scrutinize",
+    "meaning": "綿密に調べる",
+    "level": "pre1",
+    "pos": "verb",
+    "example": "Researchers scrutinized the data.",
+    "exampleJa": "研究者たちはデータを綿密に調べた。"
+  },
+  {
+    "word": "viable",
+    "meaning": "実行可能な、存続可能な",
+    "level": "pre1",
+    "pos": "adjective",
+    "example": "We need a viable alternative.",
+    "exampleJa": "実行可能な代替案が必要だ。"
+  }
+]

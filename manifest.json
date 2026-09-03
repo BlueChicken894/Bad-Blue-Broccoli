@@ -1,0 +1,21 @@
+{
+  "name": "英検 Vocabulary",
+  "short_name": "英検単語",
+  "description": "中学基礎から英検準1級までの単語学習PWA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#1f4f8f",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

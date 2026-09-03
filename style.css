@@ -1,0 +1,14 @@
+
+:root{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#1d1d1f;background:#f5f5f7}
+*{box-sizing:border-box}body{margin:0;background:#f5f5f7}button,select,input{font:inherit}
+.app{max-width:720px;margin:0 auto;padding:18px 14px 40px}.top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+h1{font-size:28px;margin:2px 0 4px}.sub{color:#6e6e73;font-size:14px}.pill{background:white;border:1px solid #ddd;border-radius:14px;padding:10px 14px;text-align:center}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:16px 0}.stat,.card,.panel{background:#fff;border:1px solid #ddd;border-radius:16px}
+.stat{padding:12px}.label{font-size:12px;color:#6e6e73}.value{font-weight:700;font-size:22px}
+.progress{height:8px;background:#e5e5ea;border-radius:99px;overflow:hidden}.progress>div{height:100%;background:#1f4f8f;width:0}.row{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:14px 0}
+select{width:100%;min-height:46px;border:1px solid #ccc;border-radius:12px;background:white;padding:0 10px;font-size:16px}.field label{display:block;font-size:13px;margin-bottom:6px}
+.card{padding:20px;min-height:320px;display:flex;flex-direction:column;justify-content:space-between}.badge{display:inline-block;padding:5px 9px;background:#f0f0f3;border-radius:999px;font-size:12px}
+.word{font-size:40px;font-weight:700;margin-top:24px;word-break:break-word}.pos{color:#6e6e73;margin-top:5px}.meaning{font-size:22px;margin-top:24px}.example{color:#6e6e73;margin-top:10px}.actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:24px}
+button{min-height:48px;border:1px solid #c9c9ce;border-radius:12px;background:#fff;padding:10px 14px}.primary{background:#1f4f8f;color:white;border-color:#1f4f8f}.ratings{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:8px}
+.hidden{display:none!important}.choices{display:grid;gap:8px;margin-top:18px}.choices button{text-align:left}.feedback{min-height:24px;margin-top:8px;font-size:14px}.panel{padding:14px;margin-top:14px;font-size:14px}.small{font-size:12px;color:#6e6e73}
+@media(max-width:420px){.stats{grid-template-columns:1fr 1fr}.stat:last-child{grid-column:span 2}.row{grid-template-columns:1fr}.word{font-size:34px}}
